@@ -1,5 +1,3 @@
-# Blackhole--EHorizon #
-
 # Blackhole -- Ehorizon #
 
 
