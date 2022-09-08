@@ -2,7 +2,7 @@
 
 
 Overview
-asropy provides a Least-Squares Minimization routine and class with a simple, flexible approach to parameterizing a model for fitting to data.
+astropy provides a Least-Squares Minimization routine and class with a simple, flexible approach to parameterizing a model for fitting to data.
 
 astropy is a pure Python package, and so easy to install from source or with pip install astropy.
 
